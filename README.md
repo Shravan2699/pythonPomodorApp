@@ -1,1 +1,1 @@
-# pythonPomodorApp
+# pythonPomodoroApp
